@@ -1,10 +1,10 @@
 <html>
 	<head>
-		<title>Login Page</title>
+		<title>Welcome Page</title>
 	</head>
 	<body>
-		<div>Welcome to Raunak's World!</div>
-		<div>Your name: ${name}</div>
+		<div>Welcome ${name}</div>
+		<hr>
 		<div><a href="list-todos">Manage</a> YOUR TODOS</div>
 	</body>
 </html>
